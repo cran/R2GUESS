@@ -1,4 +1,4 @@
-import(fields, MCMCpack, methods, mixOmics, mvtnorm, snowfall)
+import(fields, graphics, grDevices, MCMCpack, methods, mixOmics, mvtnorm, snowfall, stats, utils)
 export(Analysis.permutation)
 export(Postprocess.R2GUESS)
 export(Extend.R2GUESS)

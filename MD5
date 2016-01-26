@@ -1,5 +1,5 @@
-733b81b92198f7230ce81f608d2c12c4 *DESCRIPTION
-acb4062dd45df11741948bba9e0da305 *NAMESPACE
+14579a34310d0b690b173dedfc0e6c6d *DESCRIPTION
+97a8b29dbea69e6f3aa7ab0148f08087 *NAMESPACE
 58cfae7432de383aa06f8bc4fcaf55e0 *R/Analysis.permutation.R
 1a6ad0962eb0c349d0deaa14e8a9aa7e *R/Extend.R2GUESS.R
 3453a24ed5d369faf24a90384f46db4e *R/FDR.permutation.R
@@ -18,8 +18,8 @@ c6af5ff46fbaa1dd91468a247d476652 *R/get.g.sweep.R
 09ec83356a4b46704939005883a2b03d *R/pairwise.correlation.R
 ed93b2a7ed004e1f39fe4be082309ec3 *R/plot.ESS.R
 dd83bd9912207fb1d3e5dc3083607e91 *R/plotMPPI.R
-d13632fc3ccbfc2270bf70c00fc09efd *R/plotcim.R
-efb61d0bf1bcc70ebdec417a8082d216 *R/plotcim.explore.R
+ca4eab1a925a46e9fedebca8fa2c95dc *R/plotcim.R
+adb319e6f3fcc3d1032cb7c49d44ec24 *R/plotcim.explore.R
 8d6c9e778cb7ccba52465564778f0fc4 *R/plotmodel.R
 51ce6384515ff0131e96143392bbed33 *R/plotvariable.R
 61a45658c4e1bce78cd58d1860d05b79 *R/print.ESS.R
@@ -33,6 +33,7 @@ c98203b5003bf77ed9815411ab91b3b9 *R/summary.ESS.R
 bed011899ee91cb8c98d9c84535f066e *data/MAP.file.rda
 037adad8714571e037874f8c5d364be2 *data/data.X.rda
 02c398fa98ad0e54362cc4893c6c17e0 *data/data.Y.Hopx.rda
+b74517f9313516a5793daa546ef17dc2 *inst/CITATION
 ca35d4adeba96bbf4d035b42ecb2072b *inst/Input/data-X-C-CODE.txt
 18000a14c5ccf0325dde643fde9d7ecb *inst/Input/data-Y-ALL-C-CODE.txt
 521f81ec2bd64c470074504255eee66a *inst/Output/Example-GUESS-Y-Hopx-command-C.txt

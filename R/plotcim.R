@@ -24,6 +24,6 @@ for (i in 1:length(var.gene)){
 for (j in 1:length(labelY)){
 mat.sim[j,i] <- cor(matX[,i],matY[,j])
 }}
-cim(mat.sim,labRow = labelY,labCol = var.gene)}
+cim(mat.sim,row.names = labelY,col.names = var.gene)}
 return(result=list(mat.sim=mat.sim,labelY=labelY,labelX=var.gene))
 }

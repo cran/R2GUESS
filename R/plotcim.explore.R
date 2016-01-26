@@ -5,5 +5,5 @@ for (i in 1:dim(matX)[2]){
   for (j in 1:length(labelY)){
     mat.sim[j,i] <- cor(matX[,i],matY[,j])
   }}
-cim(mat.sim,labRow = labelY,labCol = 1:dim(matX)[2])
+cim(mat.sim,row.names = labelY,col.names = 1:dim(matX)[2])
 }
