@@ -1,4 +1,4 @@
-14579a34310d0b690b173dedfc0e6c6d *DESCRIPTION
+8b6be6de9f2498b5a7ba28140d028759 *DESCRIPTION
 97a8b29dbea69e6f3aa7ab0148f08087 *NAMESPACE
 58cfae7432de383aa06f8bc4fcaf55e0 *R/Analysis.permutation.R
 1a6ad0962eb0c349d0deaa14e8a9aa7e *R/Extend.R2GUESS.R
@@ -11,7 +11,7 @@ ad9a8320ecca0e611a6fe08d776a1fa7 *R/R2GUESS.perm.R
 1bb730904b960fe8c1d0c3a787971024 *R/as.ESS.object.R
 7ea63553aa1dca9f69fd17da35773edd *R/boxplotbeta.R
 1522f3e122c498b302c14dd50673f3ca *R/check.convergence.R
-083a377a9771351094606116dd4e3e96 *R/example.as.ESS.object.R
+df49a2313345fde8ca474e21d0ede807 *R/example.as.ESS.object.R
 657931cfea7233a76e736846f72aa7d0 *R/get.best.models.R
 c6af5ff46fbaa1dd91468a247d476652 *R/get.g.sweep.R
 7db3c93e7e37a63a262e970a7cfe314c *R/get.sweep.best.model.R
@@ -27,9 +27,9 @@ f292411f7b17e3493f4ab298f6f370d2 *R/sample.beta.R
 c98203b5003bf77ed9815411ab91b3b9 *R/summary.ESS.R
 8fc57cfef59d2913e4897afc8af2bd5a *R/summarybest.model.R
 95aaee474223f654d26aac638ebd1583 *R/wrapper.R
-6f161c631bd784cc1d5f7861a74c4e44 *cleanup
-1388a169de62718560070abac725e53b *configure
-4dfd3abbf0fbbbbfb7266a4fa7498489 *configure.ac
+b5ff0d119d0433bb41b413540863ad90 *README.md
+57e4629e2a5bf42ab963110f67a4bdcd *configure
+3accae303977d3ad436004ee2765191b *configure.ac
 bed011899ee91cb8c98d9c84535f066e *data/MAP.file.rda
 037adad8714571e037874f8c5d364be2 *data/data.X.rda
 02c398fa98ad0e54362cc4893c6c17e0 *data/data.Y.Hopx.rda
@@ -68,7 +68,7 @@ a168b2030ba5e938a87f3552f0392b00 *man/Postprocess.R2GUESS.Rd
 447d3fab38ca940bafff40e1f886cf76 *man/R2GUESS.Rd
 7dc03a76bf37275b8efe4ab7342b3417 *man/R2GUESS.perm.Rd
 db73655896c42b254ed25b38159aeddc *man/Resume.R2GUESS.Rd
-6127f237b20f12cbaf5fe08595ce118f *man/as.ESS.object.Rd
+eb7e08d12213300cbeb7ebad9714ef20 *man/as.ESS.object.Rd
 b5d69a51d8ea4455076e61772989a468 *man/boxplotbeta.Rd
 01c4750e360b7bbd56798279aa024d9f *man/check.convergence.Rd
 fee5d649fde4c1b99329a8eadc3257b0 *man/data.X.Rd
